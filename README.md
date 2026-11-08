@@ -7,6 +7,8 @@ I care about actually shipping things, owning what I build, and not overcomplica
 
 ### Where I've worked
 
+- **[Dynamic Program](https://dynamicprogram.app/)** (my own product): discovered the need for it, then took it
+  from early prototypes to a shipped, evolving product, live on the App Store and Google Play.
 - **ASML** (two stints): built a dashboard and ETL pipeline that replaced a manual workflow (up to 50% time
   saved), and built a DSL code generator that uses an internal API to generate DSL code, which in turn
   generates C++ code for ASML machines.
@@ -15,10 +17,6 @@ I care about actually shipping things, owning what I build, and not overcomplica
 - **FSFE**: owned an improvement end to end, from cutting slow graph database queries from ~80s to ~30s to making
   it usable in the UI through a search filter, live on [TEDective](https://tedective.org). Also raised test
   coverage to 80%.
-
-### Right now
-
-I'm building [**Dynamic Program**](https://dynamicprogram.app/)
 
 Find me on [LinkedIn](https://www.linkedin.com/in/nedasadamavicius/)
 
