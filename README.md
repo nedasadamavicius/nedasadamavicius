@@ -5,7 +5,7 @@ people actually need, and building software that helps them, using AI to get the
 
 I care about actually shipping things, owning what I build, and not overcomplicating stuff.
 
-### Where I've worked
+### What I've built
 
 - **[Dynamic Program](https://dynamicprogram.app/)** (my own product): discovered the need for it, then took it
   from early prototypes to a shipped, evolving product, live on the App Store and Google Play.
