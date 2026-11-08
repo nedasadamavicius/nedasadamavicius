@@ -1,16 +1,20 @@
 ### Hey, I'm Nedas 👋
 
-I'm a backend-leaning software engineer, fresh out of Fontys (HBO-i, SWE track). Python is my language of choice and most of my free time these days goes into getting properly good at it - the backend side especially.
+I'm a product-facing software engineer. What drives me is bridging people and software: understanding what
+people actually need, and building software that helps them, using AI to get there efficiently.
 
 I care about actually shipping things, owning what I build, and not overcomplicating stuff.
 
 ### Where I've worked
 
-I did two stints at **ASML** - most recently prototyping a way to automate a painful manual step in one of their internal engineering processes, and before that building a dashboard from scratch (ETL pipeline and all) that killed off a manual workflow and cut a bunch of operational overhead (up to 50% of time saved).
-
-At **Fontys** I've worked with my team as SWE & PM, on a generative AI project tackling bias in dermatology datasets. It ended up winning an award for real-world impact, which was a nice surprise.
-
-And at **FSFE** I spent my time deep in a graph database context, dragging some very slow queries down from ~80s to ~30s and pushing test coverage up to 80%.
+- **ASML** (two stints): built a dashboard and ETL pipeline that replaced a manual workflow (up to 50% time
+  saved), and built a DSL code generator that uses an internal API to generate DSL code, which in turn
+  generates C++ code for ASML machines.
+- **Fontys**: SWE & PM on a generative AI project tackling bias in dermatology datasets, awarded for real-world
+  impact.
+- **FSFE**: owned an improvement end to end, from cutting slow graph database queries from ~80s to ~30s to making
+  it usable in the UI through a search filter, live on [TEDective](https://tedective.org). Also raised test
+  coverage to 80%.
 
 ### Right now
 
