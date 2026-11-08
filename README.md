@@ -13,7 +13,8 @@ I care about actually shipping things, owning what I build, and not overcomplica
   saved), and built a DSL code generator that uses an internal API to generate DSL code, which in turn
   generates C++ code for ASML machines.
 - **Fontys**: SWE & PM on a generative AI project tackling bias in dermatology datasets, awarded for real-world
-  impact.
+  impact. Responsible for the team shipping reproducible pipelines with Nix and Docker, running the same on
+  macOS, Linux and Windows.
 - **FSFE**: owned an improvement end to end, from cutting slow graph database queries from ~80s to ~30s to making
   it usable in the UI through a search filter, live on [TEDective](https://tedective.org). Also raised test
   coverage to 80%.
