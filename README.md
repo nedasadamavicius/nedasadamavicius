@@ -1,5 +1,3 @@
-### Hey, I'm Nedas 👋
-
 I'm a product-facing software engineer. What drives me is bridging people and software: understanding what
 people actually need, and building software that helps them, using AI to get there efficiently.
 
