@@ -1,7 +1,12 @@
+![Nedas Adamavicius](banner.svg)
+
 I'm a product-facing software engineer. What drives me is bridging people and software: understanding what
 people actually need, and building software that helps them, using AI to get there efficiently.
 
 I care about actually shipping things, owning what I build, and not overcomplicating stuff.
+
+**Fun fact:** you'll never meet anyone as committed to building what truly matters. I have the history to
+back it up; most who claim it don't.
 
 ### What I've built
 
